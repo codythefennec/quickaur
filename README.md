@@ -1,7 +1,7 @@
 # QuickAur
 A simple AUR repository installer.
 
-# A Simple Shell Script to Send Executables to Your Desktop!
+# A Simple Shell Script to Install AUR Packages!
 This shell scripts will allow you to quickly install AUR archlinux packages:
 [AUR](https://aur.archlinux.org/)
 
